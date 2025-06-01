@@ -6,6 +6,7 @@ This repository contains the top 50 SQL Leetcode questions . Each question is ta
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1258-article-views-i) |
