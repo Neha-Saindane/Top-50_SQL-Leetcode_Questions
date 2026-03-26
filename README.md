@@ -6,6 +6,7 @@ This repository contains the top 50 SQL Leetcode questions . Each question is ta
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
