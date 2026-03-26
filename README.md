@@ -19,6 +19,7 @@ This repository contains the top 50 SQL Leetcode questions . Each question is ta
 | [1390-average-selling-price](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1801-average-time-of-process-per-machine](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1801-average-time-of-process-per-machine) |
