@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/">1731. The Number of Employees Which Report to Each Employee</a></h2><h3>Easy</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Employees</code></p>
+<h2><a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee">1882. The Number of Employees Which Report to Each Employee</a></h2><h3>Easy</h3><hr><p>Table: <code>Employees</code></p>
 
-<pre>+-------------+----------+
+<pre>
++-------------+----------+
 | Column Name | Type     |
 +-------------+----------+
 | employee_id | int      |
@@ -25,7 +26,8 @@ This table contains information about the employees and the id of the manager th
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 Employees table:
 +-------------+---------+------------+-----+
 | employee_id | name    | reports_to | age |
@@ -46,7 +48,8 @@ Employees table:
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 Employees table:
 +-------------+---------+------------+-----+ 
 | employee_id | name &nbsp; &nbsp;| reports_to | age |
@@ -70,4 +73,3 @@ Employees table:
 +-------------+---------+---------------+-------------+
 
 </pre>
-</div>
