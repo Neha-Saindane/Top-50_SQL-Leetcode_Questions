@@ -28,6 +28,7 @@ This repository contains the top 50 SQL Leetcode questions . Each question is ta
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1801-average-time-of-process-per-machine](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1827-invalid-tweets) |
