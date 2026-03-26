@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest/">1633. Percentage of Users Attended a Contest</a></h2><h3>Easy</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Users</code></p>
+<h2><a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest">1773. Percentage of Users Attended a Contest</a></h2><h3>Easy</h3><hr><p>Table: <code>Users</code></p>
 
-<pre>+-------------+---------+
+<pre>
++-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
 | user_id     | int     |
@@ -14,7 +15,8 @@ Each row of this table contains the name and the id of a user.
 
 <p>Table: <code>Register</code></p>
 
-<pre>+-------------+---------+
+<pre>
++-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
 | contest_id  | int     |
@@ -35,7 +37,8 @@ Each row of this table contains the id of a user and the contest they registered
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 Users table:
 +---------+-----------+
 | user_id | user_name |
@@ -76,4 +79,3 @@ All the users registered in contests 208, 209, and 210. The percentage is 100% a
 Alice and Alex registered in contest 215 and the percentage is ((2/3) * 100) = 66.67%
 Bob registered in contest 207 and the percentage is ((1/3) * 100) = 33.33%
 </pre>
-</div>
