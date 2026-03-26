@@ -1,10 +1,6 @@
 # Write your MySQL query statement below
-select 
-    Signups.user_id,
-    Round(Avg(If(Confirmations.action='confirmed',1,0)),2) as confirmation_rate 
-from 
-    signups left join Confirmations 
-on 
-    Signups.user_id = Confirmations.user_id
-group by 
-    user_id;
+SELECT A.user_id, 
+       ROUND(IFNULL(AVG(action = 'confirmed'), 0), 2) AS confirmation_rate
+FROM Signups AS A
+LEFT JOIN Confirmations AS B ON A.user_id = B.user_id
+GROUP BY A.user_id;
