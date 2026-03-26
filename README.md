@@ -12,6 +12,7 @@ This repository contains the top 50 SQL Leetcode questions . Each question is ta
 | [0584-find-customer-referee](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0620-not-boring-movies) |
+| [1148-article-views-i](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1258-article-views-i) |
