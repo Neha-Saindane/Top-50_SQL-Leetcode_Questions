@@ -7,6 +7,7 @@ This repository contains the top 50 SQL Leetcode questions . Each question is ta
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/0584-find-customer-referee) |
