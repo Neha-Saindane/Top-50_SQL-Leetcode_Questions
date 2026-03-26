@@ -34,4 +34,5 @@ This repository contains the top 50 SQL Leetcode questions . Each question is ta
 | [1908-recyclable-and-low-fat-products](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/1934-confirmation-rate) |
 | [2087-confirmation-rate](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/2087-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Neha-Saindane/Top-50_SQL-Leetcode_Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
